@@ -1,0 +1,36 @@
+{
+    "address": [
+        {
+            "id": 1,
+            "name": "Pramod Mukane",
+            "address": "Landewadi, Bhosari",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "pin": 411039
+        },
+        {
+            "id": 2,
+            "name": "Priyanka Chopra",
+            "address": "College Rd, Nimisha Tenaments",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pin": 411026
+        },
+        {
+            "id": 1,
+            "name": "Salman Khan",
+            "address": "Gf-1, Parashwa Bhumi Complex, Limda Pole, Raopura",
+            "city": "Vadodara",
+            "state": "Gujarat",
+            "pin": 390001
+        },
+        {
+            "id": 1,
+            "name": "Karishma Kapoor",
+            "address": "B-2, B-2, Shreydarshan, Paldi",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "pin": 380007
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  
+    background-color: gray !important;
+  }
+
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+ 
+.register,
+.product {
+    margin-left: 30%;
+}
+
+.login {
+    margin-left: 30%;
+    margin-top: 100px;
+}
+
+.inputBox {
+
+    padding: 7px;
+    display: block;
+    border: 1px solid red;
+    width: 300px;
+    margin: 25px;
+}
+
+.appButton {
+    margin: 20%;
+    width: 150px;
+    padding: 10px;
+    background-color: forestgreen;
+    border: 1px solid red;
+    cursor: pointer;
+}
+
+.nav-ul li a {
+    color: aqua;
+    padding: 5px;
+    text-decoration: none;
+}
+
+ .nav-ul {
+    padding: 5px;
+    margin: 0;
+
+
+} 
+
+.container123{
+    border: 1px solid green;
+    margin: 40px;
+     padding-bottom: 52px;
+    padding-top: 32px;
+}
+
+.contianer456{
+    border: 1px solid blue;
+    padding-left: 24px;
+    font-family: emoji;
+    font-size: 24px;
+
+}
+
+.nav-right {
+    text-align: right;
+
+}
+
+.logo {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    float: left;
+    margin-top: 3px;
+    margin-left: 10px;
+
+}
+
+.invalid-input {
+    display: block;
+    color: red;
+    margin-top: -1px;
+    margin-left: 2px;
+
+}
+
+.details-list {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.details-list ul li {
+    display: inline-block;
+    border: 1px solid red;
+    padding: 5px;
+    width: 150px;
+
+}
+
+.search-details-box {
+    width: 400px;
+    height: 20px;
+    margin: 40px;
+    border: 1px solid red;
+    padding-left: 30px;
+}
